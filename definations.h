@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <pthread.h>
-
 #define NUMBER_OF_READERS 5
 #define NUMBER_OF_WRITERS 5
 #define NUMBER_OF_READS 5
